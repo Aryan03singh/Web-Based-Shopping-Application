@@ -1,5 +1,4 @@
-# Web-Based-Shopping-Application
-Designed and developed a RESTful API for an online shopping application, delivering all core e-commerce functionalities. Built using Java and Spring Boot, with Hibernate and JDBC for data persistence, Maven for project management, and MySQL as the backend database.
+
 <img width="1399" height="791" alt="image" src="https://github.com/user-attachments/assets/ad220641-2634-4ccb-9cf5-d9d83ab9833c" />
 The Shopper's Club API is a robust and reliable RESTful solution for online e-commerce platforms. It allows customers to browse and purchase products with a seamless and user-friendly interface. The API is designed to provide a wide range of functionalities for managing products, orders, and customer information.
 
